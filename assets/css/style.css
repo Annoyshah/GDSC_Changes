@@ -1583,7 +1583,10 @@ section {
   display : flex;
   /* flex-direction: column; */
   flex-wrap: wrap;
+<<<<<<< Updated upstream
   align-items: center;
+=======
+>>>>>>> Stashed changes
   justify-content: center;
 }
 /*floaing styles
